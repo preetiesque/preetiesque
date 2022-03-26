@@ -13,7 +13,6 @@
 <p align="left">
 <a href="https://twitter.com/preetiesque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="preetiesque" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/preeti-chaudhari-6403a7187/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/preeti-chaudhari-6403a7187/" height="30" width="40" /></a>
-<a href="https://hashnode.com/@preetiesque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@preetiesque" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/preetiesque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="preetiesque" height="30" width="40" /></a>
 </p>
 
