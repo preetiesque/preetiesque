@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=preetiesque" alt="preetiesque" /></a> </p>
 
-- 🌱 I’m currently learning **Competitive Programming and Java.**
+- 🌱 I’m currently learning **Java and Competitive Programming.**
 
 - 📫 How to reach me **preetischaudhari1201@gmail.com.**
 
