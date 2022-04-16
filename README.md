@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Java and Competitive Programming.**
 
-- 📫 How to reach me **preetischaudhari1201@gmail.com.**
+- 📫 How to reach me : **preetischaudhari1201@gmail.com.**
 
-- ⚡ Fun fact **"There are 10 types of people in this world ; those who can read BINARY and those who can't."**
+- ⚡ Fun fact : **"There are 10 types of people in this world ; those who can read BINARY and those who can't."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
